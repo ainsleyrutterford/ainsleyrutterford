@@ -1,1 +1,3 @@
-Trying out this new GitHub readme!
+## Hello, World!
+
+I'm Ainsley Rutterford, a full stack software engineer at Bx.
