@@ -1,7 +1,7 @@
 # Hello, I'm Ainsley Rutterford 🪴
 
 - I'm a software engineer based in London
-- I have a Masters in Computer Science from the University of Bristol
+- I have an MEng in Computer Science from the University of Bristol
 - I'm interested in Deep Learning, Computer Architecture, and High Performance Computing
 - Here's my full [CV](https://github.com/ainsleyrutterford/CV/blob/master/ainsleyrutterford.pdf) if you're interested
 
