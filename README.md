@@ -1,5 +1,10 @@
 # Hello, I'm Ainsley Rutterford 🪴
 
+- I'm a software engineer based in London
+- I have a Masters in Computer Science from the University of Bristol
+- I'm interested in Deep Learning, Computer Architecture, and High Performance Computing
+- Here's my full [CV](https://github.com/ainsleyrutterford/CV/blob/master/ainsleyrutterford.pdf) if you're interested
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -7,6 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-black?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=%22C++%22)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 
 ### Libraries and Technologies
 
