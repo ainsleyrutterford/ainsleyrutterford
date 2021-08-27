@@ -16,5 +16,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Latex](https://img.shields.io/badge/-Latex-008080?logo=latex)
 
 Contact me via [email](mailto:ainsley.rutterford@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ainsleyrutterford/).
