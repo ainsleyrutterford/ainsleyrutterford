@@ -16,9 +16,14 @@
 
 ### Libraries and Technologies
 
+<!-- https://github.com/badges/shields/blob/master/doc/logos.md
+https://simpleicons.org -->
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-black?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
